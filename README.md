@@ -1,6 +1,6 @@
 # chatbox
-Chat Application using FastAPI
+A chat application developing with FastAPI.
 
-Users can chat with registered users.
+Registered users can chat with each other.
 
 Users can create groups and add members to enable group chats.
